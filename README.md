@@ -1,5 +1,3 @@
-# Group 2 - Project: Iowa Liquor Sales  
-
 ## Project title 
 Iowa Liquor Sales
 
@@ -14,7 +12,6 @@ Our study aims to investigate trends and anomalies surrounding the sale of liquo
 
 In summary, we learned that the highest average sales per month occurred in Fall and Winter months in 2012 through 2014. We found that 2015 was an exception where the highest average sales occurred in June. The highest average sales by county occurred in Polk. Of note, the largest city in Iowa is Des Moines which is located in Polk county so this may have skewed the results. The next highest sales occurred in Linn, Scott, Black Hawk, and Johnson counties. We will focus our discussion in the Application section below on these four counties. Furthermore, Iowans prefer vodka and whiskey over other types of liquor. Sales tend to be higher in Fall and Winter months versus Spring and Summer months on a consistent basis which we were able to confirm by deep diving sales during holidays and college football season. Lastly, we learned that when Iowans purchase whiskey they are likely to purchase vodka on the same order. This is also true for rum and vodka and rum and whiskey.
 
-
 ## Summary of the question(s) sought and the answers 
 1) What times of the year have liquor sales been the highest?
 2) Are there hotspots in the state where liquor sales have been higher than the average?
@@ -22,8 +19,6 @@ In summary, we learned that the highest average sales per month occurred in Fall
 4) Is there a surprising/unexpected time of year when liquor sales have gone up?
 5) Are there purchase trends during holidays and college football season?
 6) Are there any alcohol types that are frequently bought together? 
-
-
 
 ## Application of this knowledge 
 We found that the majority of the knowledge gained can be used to influence marketing strategies surrounding certain geographical areas and liquor types. Looking at each question and its respective results, we will make educated guesses and suggestions regarding how this information could be used by vendors or by those who supply vendors. As noted previously, this dataset only covers four consecutive years starting in January of 2012, so the suggestions being made are done so with the bold assumption that the trends and anomalies that we see in this data continue on into later years. 
@@ -38,11 +33,3 @@ Results for questions 4, covered in section 6.4, reveal that summer months are t
 The knowledge gained from these two questions leads us to suggest the development of a marketing strategy that revolves around discounted bundled packages that would specifically target consumers to make their own mixed drinks. We could use the knowledge gained from question 3 to bundle liquors we already know sell well in Iowa, such as Vodka. As an example, Redbull and Vodka could be marketed together as a discounted bundle to boost consumer sales, which in turn would boost vodka sales to vendors.
 
 Results for question 6 were covered in section 6.6. The results of the most frequently bought items can be found in the table under section 6.6 and can be custom tailored to stores within each county.  From these results, marketing strategies can be employed to arrange items that are frequently bought together in close proximity to each other in the stores of the counties they are favored in to further drive sales up. We can also use these results in conjunction with results of question 4 to bundle the frequently bought itemsets with a discount in months where liquor sales are lower.  
-
-
-## Link to the video demonstration 
-[Video Presentation](https://drive.google.com/file/d/1-D4fwcwBHCq-WRI2rB3p9kpv6EiK5srI/view?usp=share_link)
-
-## Link to your final project paper
-[Part 4](https://docs.google.com/document/d/1VDaHzX5OaHy2XkZj86yWspM4sd2gTmPSdYsdEWUiho8/edit?usp=sharing)
-
